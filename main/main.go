@@ -1,7 +1,7 @@
 package main
 import(
 "fmt"
-"igithub.com/gosample"
+"github.com/gosample"
 )
 
 func main(){
